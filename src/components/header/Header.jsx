@@ -9,7 +9,6 @@ export default function Header() {
                 <span className="headerTitlelg">Blog</span>
             </div>
             <img className="headerImg" src={img1} alt="loading" />
-
         </div>
     )
 }
